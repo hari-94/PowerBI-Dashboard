@@ -1,5 +1,8 @@
 # 📊 Power BI Dashboard: Spending vs Savings Analysis Using Snowflake
 
+![Country Vs sales](https://github.com/user-attachments/assets/036c7095-aa93-419b-9138-3a0a65ad3991)
+
+
 ## 🌍 Overview
 This Power BI project analyzes **global spending vs savings trends**, using **Snowflake's sample data** with a **mart layer implementation** and **DirectQuery mode** for real-time insights.
 
